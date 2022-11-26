@@ -78,6 +78,7 @@ globals:
 dsmr:
   id: dsmr_instance
   max_telegram_length: 1700
+  gas_mbus_id: 2
   # For Luxembourg users set here your decryption key
   #decryption_key: !secret decryption_key // enable this when using decryption for Luxembourg; key like '00112233445566778899AABBCCDDEEFF'
 
