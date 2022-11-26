@@ -11,7 +11,7 @@ esphome:
   board: d1_mini
   name_add_mac_suffix: false
   project:
-    name: zuidwijk.slimmelezer
+    name: mvanbeusekom.slimmelezer
     version: "1.0"
 
 wifi:
