@@ -173,8 +173,8 @@ struct units {
   static constexpr char kvarh[] = "kvarh";
 };
 
-const uint8_t GAS_MBUS_ID = 1;
-const uint8_t WATER_MBUS_ID = 2;
+const uint8_t WATER_MBUS_ID = 1;
+const uint8_t GAS_MBUS_ID = 2;
 const uint8_t THERMAL_MBUS_ID = 3;
 const uint8_t SLAVE_MBUS_ID = 4;
 

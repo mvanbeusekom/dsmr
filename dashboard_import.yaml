@@ -55,7 +55,7 @@ ota:
 
 # This should point to the public location of this yaml file.
 dashboard_import:
-  package_import_url: github://zuidwijk/dsmr/dashboard_import.yaml
+  package_import_url: github://mvanbeusekom/dsmr/dashboard_import.yaml
   
 wifi:
 #  ssid: !secret wifi_ssid

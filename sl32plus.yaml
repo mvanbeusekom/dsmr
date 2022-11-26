@@ -69,7 +69,7 @@ api:
 ota:
 
 dashboard_import:
-  package_import_url: github://zuidwijk/dsmr/sl32plus.yaml@main
+  package_import_url: github://mvanbeusekom/dsmr/sl32plus.yaml@mvanbeusekom
 
 web_server:
   port: 80
